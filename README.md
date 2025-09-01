@@ -2,7 +2,7 @@
 <!-- <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://wallpapercave.com/download/sukuna-hd-wallpapers-wp10121120"></div> -->
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%e27589&size=30&center=true&vCenter=true&width=450&lines=Sukuna Ryomen;KING +of +Curses;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="hat bhenchod"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%e27589&size=30&center=true&vCenter=true&width=450&lines=Sukuna Ryomen;KING +of +Curses;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="image"></a>
 </div>
 
 - 👋 Hi, I’m @sukuna-ry0men
